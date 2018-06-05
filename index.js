@@ -1,7 +1,7 @@
 /**
  * Generates a Rorschach image in an HTML5 canvas
  * 
- * @author RGBz
+ * @author Holeigh J. Skyler Foundation
  */
 
 /**
